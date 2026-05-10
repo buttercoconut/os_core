@@ -1,0 +1,4 @@
+"""OS constants."""
+
+MAX_PROCESSES = 256
+MEMORY_SIZE = 1024 * 1024  # 1MB
